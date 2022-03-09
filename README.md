@@ -6,7 +6,7 @@
 
 
 ## `What is SIEM?`
-- **SOAR stands for security orchestration, automation, and response.**
+- Security information and event management (SIEM) is an approach to security management that combines SIM (security information management) and SEM (security event management) functions into one security management system. The acronym SIEM is pronounced "sim" with a silent e.
 
 ## Table of Contents
 
